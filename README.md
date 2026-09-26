@@ -52,3 +52,6 @@ SQL Analysis (14 queries) → Excel Exploration → BRD Documentation → Tablea
 ## Dataset Note
 
 Dataset is synthetically generated to simulate real UPI transaction patterns while preserving privacy compliance — inspired by NPCI and RBI market data. No real user data is used in this analysis.
+
+Raw dataset (250,000 rows) available at: https://www.kaggle.com/datasets/skullagos5246/upi-transactions-2024-dataset
+A 50-row sample is included in the data/ folder to show the data structure.
