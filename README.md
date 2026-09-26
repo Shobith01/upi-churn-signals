@@ -45,7 +45,6 @@ SQL Analysis (14 queries) → Excel Exploration → BRD Documentation → Tablea
 
 - [BRD Document](docs/BRD_UPIChurnSignals_v1.0.pdf)
 - [SQL Queries](sql/UPITransactionsPA.sql)
-- [Tableau Dashboard]([PASTE YOUR TABLEAU PUBLIC URL HERE])
 - [Dashboard Screenshot — Platform Health](dashboard/dashboard_tab1_platform_health.png)
 - [Dashboard Screenshot — Time Patterns](dashboard/dashboard_tab2_time_patterns.png)
 - [Dashboard Screenshot — Segments](dashboard/dashboard_tab3_segments.png)
