@@ -153,6 +153,3 @@ A 50-row sample is included in the `data/` folder to show the data structure.
 
 ---
 
-## Related Projects
-
-- [E-Commerce Customer Behavior & RFM Segmentation](https://github.com/Shobith01/E-Commerce-Customer-Behavior-RFM-Segmentation)
